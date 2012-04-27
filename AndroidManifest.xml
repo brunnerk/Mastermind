@@ -20,5 +20,4 @@
         </activity>
         <activity android:name="PlayingScreenActivity" android:screenOrientation="portrait"></activity>
     </application>
-
 </manifest>
